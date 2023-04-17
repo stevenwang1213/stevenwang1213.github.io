@@ -1,8 +1,7 @@
 ## About Me
 
-Hello, I'm Sz-Je Wang
-- I’m currently studying **Finance and Business Analysis**
-- I’m looking to work in **Investment Banking or Private Equity**
+Hello! I'm Sz-Je Wang, a highly motivated Finance and Business Analytics major with a FinTech minor at Lehigh University, expecting to graduate in May 2024.
+I have a diverse range of experience in the financial industry, including roles in macroeconomic research, Fintech research, financial management, and accounting.
 
 <!-- Upload your own photo and change the path -->
 
