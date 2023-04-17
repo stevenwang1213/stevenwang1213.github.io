@@ -7,7 +7,7 @@ Hello, I'm Sz-Je Wang
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/Szjewangpicture.png" width="50%">
+  <img class="img-circle" src="images/Szjewangpicture.png" width="30%">
 </p>
 
 ---
