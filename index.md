@@ -1,7 +1,6 @@
 ## About Me
 
 Hello! I'm Sz-Je Wang, a highly motivated Finance and Business Analytics major with a FinTech minor at Lehigh University, expecting to graduate in May 2024.
-I have a diverse range of experience in the financial industry, including roles in macroeconomic research, Fintech research, financial management, and accounting.
 
 <!-- Upload your own photo and change the path -->
 
@@ -39,7 +38,8 @@ In this project, we want to do a sentiment analysis of Federal Reserve Announcem
 
 ## Career Objectives
 
-I am a student at Lehigh University majoring in Finance and Business Analytics. I am passionate about my field of study in investment.
+- I have a diverse range of experience in the financial industry, including roles in investment banking, private equity, macroeconomic research, Fintech research, and financial management.
+- As a diligent and proactive learner, I have honed my skills in various valuation methodologies, financial statement analysis, and financial modeling.
 
 ---
 
