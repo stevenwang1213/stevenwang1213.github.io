@@ -1,8 +1,10 @@
 ## About Me
 
-What's up? hey\|you
+- 🌱 I’m currently studying **Finance and Business Analysis**
 
-I am an awesome student at Lehigh, you should hire me!
+- 💵 I’m looking to work in **Investment Banking or Private Equity**
+
+- 📄 Here is my Linkedin link [https://www.linkedin.com/in/sz-jewang/](https://www.linkedin.com/in/sz-jewang/)
 
 <!-- Upload your own photo and change the path -->
 
@@ -46,15 +48,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I am a student at Lehigh University majoring in Finance and Business Analytics. I am passionate about my field of study in investment.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I enjoy a watching movie, filled with good food, good drink, and playing games.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
