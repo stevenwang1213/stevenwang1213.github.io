@@ -18,6 +18,7 @@ _**[Natural language processing 10-Ks to identify risks](midterm_summary.md)**_
 
 This work analyzed 10k documents from 497 companies and obtained different sentimentality analysis scores by analyzing the text.
 
+<img src="images/Assign5p1.png"/>
 ---
 
 _**[Regression Practice](Regression_practice.md)**_
