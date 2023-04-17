@@ -1,48 +1,31 @@
 ## About Me
 
+Hello, I'm Sz-Je Wang
 - 🌱 I’m currently studying **Finance and Business Analysis**
-
 - 💵 I’m looking to work in **Investment Banking or Private Equity**
-
-- 📄 Here is my Linkedin link [https://www.linkedin.com/in/sz-jewang/](https://www.linkedin.com/in/sz-jewang/)
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="images/Szjewangpicture.png" width="50%">
 </p>
 
 ---
 
 ## Portfolio
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
-
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
-
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+In this project, we want to do a sentiment analysis of Federal Reserve Announcements and its impact on the S&P 500 and sector ETFs.
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Project detail]**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Specific research question:
+- What is the overall sentiment and intensity in the each announcements?
+- How do these sentiment scores correlate with subsequent stock market movements for the S&P 500 and sector ETFs?
+- Can we predict stock market reactions based on the sentiment derived from announcements? 
 
 ---
 
