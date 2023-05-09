@@ -67,6 +67,3 @@ The practice is analyzing the regression between different varaibles and housepr
 
 In my free time, I enjoy a variety of activities, including watching movies, playing games, and trying new foods and drinks. Specifically, I am a fan of superhero movies, with Iron Man being one of my favorites. I also enjoy staying active through sports such as tennis and swimming. In fact, I have cycled around Taiwan by bicycle and have found a passion for exploring new places. In addition to travel, I also enjoy trying new foods and drinks as a way to experience different cultures. Overall, I believe that it's important to maintain a balanced lifestyle and enjoy the little things in life.
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
