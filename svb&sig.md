@@ -1,4 +1,4 @@
-# The collapse of Silicon Valley Bank and Signature bank
+# The collapse of Silicon Valley Bank and Signature bank 
 
 ### Purpose of this Project
 In March 2023, two major banks collapsed in the United States: Silicon Valley Bank (SVB) and Signature Bank. The collapses of these two banks sent shockwaves through the financial system and raised concerns about the stability of the banking industry.
