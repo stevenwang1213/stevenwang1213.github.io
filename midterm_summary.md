@@ -3,6 +3,7 @@
 **Project description:** 
 This project aims to analyze the sentiment of 10-K filings from S&P 500 companies using ML and LM dictionaries for positive and negative words. It calculates the sentiment score for each company's 10-K filing and generates an output with the sentiment scores.
 - Required Package
+
 ```python
 import fnmatch
 import glob
