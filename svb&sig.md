@@ -13,6 +13,6 @@ The project will use a variety of research methods, including data analysis, int
 
 The findings of the project will be disseminated to a variety of stakeholders, including regulators, banks, and the public. The project is expected to make a significant contribution to the understanding of bank failures and the development of measures to prevent future failures.
 
-### Work
-- <a href="https://github.com/stevenwang1213/stevenwang1213.github.io/blob/1857449d545d4a19947e0f5966bccf8b88212adb/pdf/Silicon%20Valley%20bank%20and%20Signature%20bank.pdf">Silicon Valley bank and Signature bank.pdf</a>  
-- <a href="https://github.com/stevenwang1213/stevenwang1213.github.io/blob/1857449d545d4a19947e0f5966bccf8b88212adb/pdf/Silicon%20Valley%20bank%20and%20Signature%20bank%20PPT.pdf">Silicon Valley bank and Signature bank PPT.pdf</a>
+### Work and Result
+- Paper <a href="https://github.com/stevenwang1213/stevenwang1213.github.io/blob/1857449d545d4a19947e0f5966bccf8b88212adb/pdf/Silicon%20Valley%20bank%20and%20Signature%20bank.pdf">Silicon Valley bank and Signature bank.pdf</a>  
+- Presentation <a href="https://github.com/stevenwang1213/stevenwang1213.github.io/blob/1857449d545d4a19947e0f5966bccf8b88212adb/pdf/Silicon%20Valley%20bank%20and%20Signature%20bank%20PPT.pdf">Silicon Valley bank and Signature bank PPT.pdf</a>
