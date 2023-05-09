@@ -2,6 +2,22 @@
 
 **Project description:** 
 This project aims to analyze the sentiment of 10-K filings from S&P 500 companies using ML and LM dictionaries for positive and negative words. It calculates the sentiment score for each company's 10-K filing and generates an output with the sentiment scores.
+- Required Package
+```python
+import fnmatch
+import glob
+import os
+import re
+import numpy as np
+import pandas as pd
+
+from time import sleep
+from zipfile import ZipFile
+from requests_html import HTMLSession
+from bs4 import BeautifulSoup
+from near_regex import NEAR_regex
+from tqdm import tqdm 
+```
 
 ### 1. Summary
 
@@ -14,9 +30,18 @@ In the file folder, I have three subfolders: Building Sample, Exploration, and R
 #### Sentiment Variables
 The sample comprises 10-K filings from companies listed in the S&P500 index, sourced from the SEC's EDGAR database. To obtain the data, I downloaded the text files and processed them to generate a CSV file by the download text code, which was then saved to my local machine.
 
-#### Sentiment Variables
 I first combined the list of negative words from the ML and LM dictionaries to create a set of negative words. The sentiment score was calculated by dividing the number of negative words present in the cleaned text of a 10-K filing by the total number of words in the text. This produced a fraction representing the proportion of negative words in the document. Other than that, I also create my own positive and negative words list to run the sentiment score analysis.
+```python
+with open('inputs/ML_negative_unigram.txt','r') as file:
+    GHR_negative = [line.strip().lower() for line in file]
+with open('inputs/ML_positive_unigram.txt','r') as file:
+    GHR_positive = [line.strip().lower() for line in file]
+LM_df = pd.read_csv('inputs/LM_MasterDictionary_1993-2021.csv')
+LM_df['Word'] =LM_df['Word'].str.lower()
 
+LM_negative = LM_df.query('Negative > 0')['Word'].to_list()
+LM_positive = LM_df.query('Positive > 0')['Word'].to_list()
+```
 The selection of topics for contextual sentiment measures was based on their potential impact on stock performance and the company's perception in the market. These topics were carefully chosen to represent key areas of interest for investors and analysts, such as financial performance, management outlook, and industry trends. By focusing on these specific areas, I aimed to capture the nuances in sentiment that could directly influence stock prices and market sentiment. To provide a comprehensive overview of my final analysis sample, I presented summary statistics, including central tendency and dispersion measures for each variable. These statistics offer valuable insights into the distribution and characteristics of the data, helping to set the stage for my analysis. Furthermore, I conducted basic smell tests to ensure the validity of my sentiment measures. These tests included checking for variation in the measures, ensuring that industries typically associated with positive or negative sentiment were accurately represented, and confirming that no major anomalies were present in the data. By performing these tests, I aimed to establish a solid foundation for my analysis, enhancing the reliability and interpretability of my findings.
 
 ### 3. Analysis and Result
