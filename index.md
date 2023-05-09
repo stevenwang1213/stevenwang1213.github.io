@@ -4,6 +4,7 @@
     - [Natural language processing on Fed announcements](#fed)
     - [Natural language processing 10-Ks to identify risks](#10k)
     - [Regression Practice](#reg)
+    - [The collapse of Silicon Valley Bank and Signature bank](#svb)
 3. [Job Description and Career Objective](#career)
 4. [Hobbies](#hobbies)
 
@@ -52,6 +53,12 @@ The practice is analyzing the regression between different varaibles and housepr
 
 <img src="images/Assign6p2.png"/>
 
+---
+
+_**[The collapse of Silicon Valley Bank and Signature bank](svb&sig.md)**_ <a name="svb"></a>
+
+- In March 2023, two major banks collapsed in the United States: Silicon Valley Bank (SVB) and Signature Bank. The collapses of these two banks sent shockwaves through the financial system and raised concerns about the stability of the banking industry.
+- This project will analyze the reasons why SVB and Signature Bank collapsed and propose ways to prevent future bank failures.
 ---
 
 ## Job Description and Career Objective <a name="career"></a>
