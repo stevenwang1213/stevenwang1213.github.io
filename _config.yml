@@ -9,14 +9,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.GitHub.com/stevenwang1213">GitHub</a>  
   <br>
   
-Table of contents:
-[About Me](#me)
-[Portfolio](#portfolio)
-    - [Natural language processing on Fed announcements](#fed)
-    - [Natural language processing 10-Ks to identify risks](#10k)
-    - [Regression Practice](#reg)
-    - [The collapse of Silicon Valley Bank and Signature bank](#svb)
-[Job Description and Career Objective](#career)
-[Hobbies](#hobbies)
-
 theme: jekyll-theme-minimal
