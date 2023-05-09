@@ -17,7 +17,7 @@ Hello! My name is Sz-Je Wang, and I am a dedicated and enthusiastic student purs
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/ts-hawk-20230119-0192.jpg" width="30%">
+  <img class="img-circle" src="images/ts-hawk-20230119-0192.jpg" width="60%">
 </p>
 
 ---
