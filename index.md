@@ -3,6 +3,7 @@
 2. [Portfolio](#portfolio)
     - [Natural language processing on Fed announcements](#fed)
     - [Natural language processing 10-Ks to identify risks](#10k)
+    - [Discounted cash flow model](#dcf)
     - [Regression Practice](#reg)
     - [The collapse of Silicon Valley Bank and Signature bank](#svb)
 3. [Job Description and Career Objective](#career)
@@ -24,7 +25,7 @@ Hello! My name is Sz-Je Wang, and I am a dedicated and enthusiastic student purs
 ---
 ## Portfolio <a name="portfolio"></a>
 
-_**[Natural language processing on Fed announcements](https://donbowen.github.io/teamproject/)**_ <a name="fed"></a>
+_**[Natural language processing on Fed announcements](https://sikaiwang224.github.io/teamproject-/)**_ <a name="fed"></a>
 
 How do Federal Reserve announcements influence the stock market according to Natural language processing, particularly the ETFs across various sectors?
 
@@ -40,13 +41,21 @@ How do Federal Reserve announcements influence the stock market according to Nat
 - Negative sentiment score in announcements leads to a negative stock market reaction.
 - According to the hypotheses above, we believe that every time when the Federal Reserve announcements related to a piece of good news are released, the stock of companies will show a good trend and vice versa. Whether it has a piece of good news is determined by the sentiment score that we measure.
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary.md)**_ <a name="10k"></a>
+_**[Discounted cash flow model](dcf.md)**_ <a name="10k"></a>
 
-This work analyzed 10k documents from 497 companies and obtained different sentimentality analysis scores by analyzing the text.
+- The DCF model presented in this script is executed for Apple Inc. (symbol: AAPL), a leading global technology company.
+- The purpose is to estimate the intrinsic value of AAPL's stock based on its projected future free cash flows and our chosen discount rate and terminal growth rate.
+- This analysis can provide an insight into whether AAPL's current market price is overvalued or undervalued according to the DCF model.
 
-<img src="images/Assign5p1.png"/>
 ---
 
+_**[Regression Practice](Regression_practice.md)**_ <a name="dcf"></a>
+
+The practice is analyzing the regression between different varaibles and houseprice, the plot showing the regression in continuous variables. 
+
+<img src="images/Assign6p2.png"/>
+
+---
 _**[Regression Practice](Regression_practice.md)**_ <a name="reg"></a>
 
 The practice is analyzing the regression between different varaibles and houseprice, the plot showing the regression in continuous variables. 
