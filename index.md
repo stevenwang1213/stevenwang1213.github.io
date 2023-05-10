@@ -61,6 +61,9 @@ TERMINAL_GROWTH_RATE = 0.02
 API_KEY = 'Alpha Vantage API'
 SYMBOL = 'AAPL'
 ```
+`Click for DCF Model ipynb`
+[DCF-Model.ipynb](https://github.com/stevenwang1213/stevenwang1213.github.io/blob/3adb63d1ad262c07303d5b49b86d0491d3556dfe/DCF-Model.ipynb)
+
 ---
 
 _**[Regression Practice](Regression_practice.md)**_ <a name="reg"></a>
