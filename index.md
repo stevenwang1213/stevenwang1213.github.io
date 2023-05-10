@@ -79,8 +79,9 @@ _**[Portfolio Optimization Model](porteff.md)**_ <a name="pom"></a>
 tickers = ["AAPL", "AMZN", "BAC", "COP", "GOOGL", "PYPL", "SPY", "TSLA", "TSM", "XOM"]
 prices = yf.download(tickers, start="2013-05-10", end="2023-05-10")['Adj Close']
 ```
-`Click for DCF Model ipynb`
+`Click for Portfolio Optimization Model ipynb`
 [Portfolio-Optimization.ipynb](https://github.com/stevenwang1213/stevenwang1213.github.io/blob/a232a9cc142973ac09b822f4f0015bf693c13545/Portfolio-Optimization.ipynb)
+<img src="images/ef1.png" alt="julio" width="500"/>
 
 ---
 
