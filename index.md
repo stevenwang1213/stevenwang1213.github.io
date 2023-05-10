@@ -4,12 +4,11 @@
     - [Natural language processing on Fed announcements](#fed)
     - [Natural language processing 10-Ks to identify risks](#10k)
     - [Discounted cash flow model](#dcf)
+    - [Portfolio Optimization Model](#pom)
     - [Regression Practice](#reg)
     - [The collapse of Silicon Valley Bank and Signature bank](#svb)
 3. [Job Description and Career Objective](#career)
 4. [Hobbies](#hobbies)
-
----
 
 ---
 ## About Me  <a name="me"></a>
@@ -41,21 +40,50 @@ How do Federal Reserve announcements influence the stock market according to Nat
 - Negative sentiment score in announcements leads to a negative stock market reaction.
 - According to the hypotheses above, we believe that every time when the Federal Reserve announcements related to a piece of good news are released, the stock of companies will show a good trend and vice versa. Whether it has a piece of good news is determined by the sentiment score that we measure.
 
-_**[Discounted cash flow model](dcf.md)**_ <a name="10k"></a>
+---
+
+_**[Natural language processing 10-Ks to identify risks](midterm_summary.md)**_ <a name="10k"></a>
+
+This work analyzed 10k documents from 497 companies and obtained different sentimentality analysis scores by analyzing the text.
+
+<img src="images/Assign5p1.png" alt="julio" width="500"/>
+
+---
+
+_**[Discounted Cash Flow Model](dcf.md)**_ <a name="dcf"></a>
 
 - The DCF model presented in this script is executed for Apple Inc. (symbol: AAPL), a leading global technology company.
 - The purpose is to estimate the intrinsic value of AAPL's stock based on its projected future free cash flows and our chosen discount rate and terminal growth rate.
 - This analysis can provide an insight into whether AAPL's current market price is overvalued or undervalued according to the DCF model.
+```python
+# Constants
+DISCOUNT_RATE = 0.1
+TERMINAL_GROWTH_RATE = 0.02
+API_KEY = 'Alpha Vantage API'
+SYMBOL = 'AAPL'
+```
+`Click for DCF Model ipynb`
+[DCF-Model.ipynb](https://github.com/stevenwang1213/stevenwang1213.github.io/blob/3adb63d1ad262c07303d5b49b86d0491d3556dfe/DCF-Model.ipynb)
 
 ---
 
-_**[Regression Practice](Regression_practice.md)**_ <a name="dcf"></a>
+_**[Portfolio Optimization Model](porteff.md)**_ <a name="pom"></a>
 
-The practice is analyzing the regression between different varaibles and houseprice, the plot showing the regression in continuous variables. 
-
-<img src="images/Assign6p2.png"/>
+- Specialized in leveraging programming skills to create financial models, including a Portfolio Optimization model based on Modern Portfolio Theory.
+- The model utilizes Python and Yahoo Finance data, effectively analyzing ten years of historical stock price data for various stocks.
+- PyPortfolioOpt, a Python library, is implemented to construct the Efficient Frontier, calculate the Sharpe ratio, and optimize the portfolio.
+- The model provides a visual representation of optimal portfolios along the Efficient Frontier and the Capital Market Line, offering insights into risk and return trade-offs.
+- It generates an optimal investment strategy for each selected stock, facilitating better investment decisions and resource allocation.
+```python
+# Constants
+tickers = ["AAPL", "AMZN", "BAC", "COP", "GOOGL", "PYPL", "SPY", "TSLA", "TSM", "XOM"]
+prices = yf.download(tickers, start="2013-05-10", end="2023-05-10")['Adj Close']
+```
+`Click for DCF Model ipynb`
+[DCF-Model.ipynb](https://github.com/stevenwang1213/stevenwang1213.github.io/blob/3adb63d1ad262c07303d5b49b86d0491d3556dfe/DCF-Model.ipynb)
 
 ---
+
 _**[Regression Practice](Regression_practice.md)**_ <a name="reg"></a>
 
 The practice is analyzing the regression between different varaibles and houseprice, the plot showing the regression in continuous variables. 
