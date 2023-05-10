@@ -48,3 +48,6 @@ TSLA: 18.04%
 TSM: 3.15%
 XOM: 0.00%
 ```
+
+<img src="images/ef1.png" alt="julio" width="500"/>
+<img src="images/ef2.png" alt="julio" width="500"/>
