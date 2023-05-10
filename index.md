@@ -80,7 +80,7 @@ tickers = ["AAPL", "AMZN", "BAC", "COP", "GOOGL", "PYPL", "SPY", "TSLA", "TSM", 
 prices = yf.download(tickers, start="2013-05-10", end="2023-05-10")['Adj Close']
 ```
 `Click for DCF Model ipynb`
-[DCF-Model.ipynb](https://github.com/stevenwang1213/stevenwang1213.github.io/blob/3adb63d1ad262c07303d5b49b86d0491d3556dfe/DCF-Model.ipynb)
+[Portfolio-Optimization.ipynb](https://github.com/stevenwang1213/stevenwang1213.github.io/blob/a232a9cc142973ac09b822f4f0015bf693c13545/Portfolio-Optimization.ipynb)
 
 ---
 
