@@ -10,8 +10,6 @@
 4. [Hobbies](#hobbies)
 
 ---
-
----
 ## About Me  <a name="me"></a>
 
 Hello! My name is Sz-Je Wang, and I am a dedicated and enthusiastic student pursuing a Bachelor of Science in Business and Economics with a Finance major, Business Analytics (BUAN) major, and FinTech minor at Lehigh University. I am passionate about finance and technology, and I am excited to apply my skills and knowledge to make a positive impact in the industry.
@@ -41,21 +39,30 @@ How do Federal Reserve announcements influence the stock market according to Nat
 - Negative sentiment score in announcements leads to a negative stock market reaction.
 - According to the hypotheses above, we believe that every time when the Federal Reserve announcements related to a piece of good news are released, the stock of companies will show a good trend and vice versa. Whether it has a piece of good news is determined by the sentiment score that we measure.
 
-_**[Discounted cash flow model](dcf.md)**_ <a name="10k"></a>
+---
+
+_**[Natural language processing 10-Ks to identify risks](midterm_summary.md)**_ <a name="10k"></a>
+
+This work analyzed 10k documents from 497 companies and obtained different sentimentality analysis scores by analyzing the text.
+
+<img src="images/Assign5p1.png" alt="julio" width="500"/>
+
+---
+
+_**[Discounted cash flow model](dcf.md)**_ <a name="dcf"></a>
 
 - The DCF model presented in this script is executed for Apple Inc. (symbol: AAPL), a leading global technology company.
 - The purpose is to estimate the intrinsic value of AAPL's stock based on its projected future free cash flows and our chosen discount rate and terminal growth rate.
 - This analysis can provide an insight into whether AAPL's current market price is overvalued or undervalued according to the DCF model.
-
+```python
+# Constants
+DISCOUNT_RATE = 0.1
+TERMINAL_GROWTH_RATE = 0.02
+API_KEY = 'Alpha Vantage API'
+SYMBOL = 'AAPL'
+```
 ---
 
-_**[Regression Practice](Regression_practice.md)**_ <a name="dcf"></a>
-
-The practice is analyzing the regression between different varaibles and houseprice, the plot showing the regression in continuous variables. 
-
-<img src="images/Assign6p2.png"/>
-
----
 _**[Regression Practice](Regression_practice.md)**_ <a name="reg"></a>
 
 The practice is analyzing the regression between different varaibles and houseprice, the plot showing the regression in continuous variables. 
